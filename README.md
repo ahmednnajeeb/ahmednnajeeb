@@ -67,7 +67,6 @@ I prioritize **clarity, maintainability, and scalability** over hype.
 ## 📫 Connect
 
 - LinkedIn: https://www.linkedin.com/in/ahmednnajeeb
-- Website: https://AhmedNajeeb.com
 
 ---
 
